@@ -1,4 +1,4 @@
-# **PRUEBA TECNICA WORLD OFFICE PARA QA AUTOMATION**
+# **PRUEBA TECNICA QA AUTOMATION**
 
 ## Introducción 📖
 Automatización desarrollada para cumplir con el reto técnico para ingresar al equipo de QA en World Office.
