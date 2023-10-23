@@ -59,4 +59,4 @@ Los escenarios de pruebas se crean en el feature con lenguaje Gherkin, se conect
  - Gherkin - Lenguaje Business Readable DSL (Lenguaje especifico de dominio legible por el negocio)
 
 ## Autor ✒️👨🏻‍
- **©️ Jason David Guzman Gomez** - *Creación de proyecto.* - [jeison.0828@gmail.com]
+ **©️ Alejandro caro Gomez** - *Creación de proyecto.* - [Alejandroc818@gmail.com]
